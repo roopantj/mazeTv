@@ -1,0 +1,39 @@
+.image{
+    max-width: 20rem;
+    width: 100%;
+}
+.image img{
+    margin: 0.5rem auto;
+    width: 100%;
+}
+.show-details Button{
+    margin: 0.5rem auto;
+    width: 100%;
+    color: white;
+}
+
+@media (min-width:768px){
+    .image{
+        max-width: 20rem;
+        width: 90%;
+    }
+    .image img{
+        width: 100%;
+    }
+    .show-details{
+        flex: 1;
+        position: relative;
+    }
+    .show-details h2{
+        margin: 1rem 0;
+    }
+    .show-details p{
+        line-height: 1.2;
+    }
+    .show-details Button{
+        width:auto;
+        position: absolute;
+        bottom:0;
+        left:0;
+    }
+}
