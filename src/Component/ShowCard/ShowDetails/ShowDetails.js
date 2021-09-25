@@ -2,7 +2,7 @@ import React, { useEffect, useState } from 'react';
 import {Link, useParams, useHistory} from 'react-router-dom';
 import { Button } from 'reactstrap';
 import styled from 'styled-components';
-import nopreview from './nopreview2.jpg';
+import nopreview from '../../nopreview2.jpg';
 import './ShowDetails.css'; 
 
 const ShowDetails = ({shows}) =>{

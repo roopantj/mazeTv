@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/tvmaze/static/css/main.b941e7de.chunk.css",
-    "main.js": "/tvmaze/static/js/main.3454eb0b.chunk.js",
-    "main.js.map": "/tvmaze/static/js/main.3454eb0b.chunk.js.map",
-    "runtime-main.js": "/tvmaze/static/js/runtime-main.3523db22.js",
-    "runtime-main.js.map": "/tvmaze/static/js/runtime-main.3523db22.js.map",
-    "static/css/2.f2512455.chunk.css": "/tvmaze/static/css/2.f2512455.chunk.css",
-    "static/js/2.2246014a.chunk.js": "/tvmaze/static/js/2.2246014a.chunk.js",
-    "static/js/2.2246014a.chunk.js.map": "/tvmaze/static/js/2.2246014a.chunk.js.map",
-    "static/js/3.f3919e0b.chunk.js": "/tvmaze/static/js/3.f3919e0b.chunk.js",
-    "static/js/3.f3919e0b.chunk.js.map": "/tvmaze/static/js/3.f3919e0b.chunk.js.map",
-    "index.html": "/tvmaze/index.html",
-    "static/css/2.f2512455.chunk.css.map": "/tvmaze/static/css/2.f2512455.chunk.css.map",
-    "static/css/main.b941e7de.chunk.css.map": "/tvmaze/static/css/main.b941e7de.chunk.css.map",
-    "static/js/2.2246014a.chunk.js.LICENSE.txt": "/tvmaze/static/js/2.2246014a.chunk.js.LICENSE.txt",
-    "static/media/nopreview2.94b51897.jpg": "/tvmaze/static/media/nopreview2.94b51897.jpg"
+    "main.css": "/mazeTv/static/css/main.b941e7de.chunk.css",
+    "main.js": "/mazeTv/static/js/main.3454eb0b.chunk.js",
+    "main.js.map": "/mazeTv/static/js/main.3454eb0b.chunk.js.map",
+    "runtime-main.js": "/mazeTv/static/js/runtime-main.32048d5e.js",
+    "runtime-main.js.map": "/mazeTv/static/js/runtime-main.32048d5e.js.map",
+    "static/css/2.f2512455.chunk.css": "/mazeTv/static/css/2.f2512455.chunk.css",
+    "static/js/2.3b0d3c94.chunk.js": "/mazeTv/static/js/2.3b0d3c94.chunk.js",
+    "static/js/2.3b0d3c94.chunk.js.map": "/mazeTv/static/js/2.3b0d3c94.chunk.js.map",
+    "static/js/3.f3919e0b.chunk.js": "/mazeTv/static/js/3.f3919e0b.chunk.js",
+    "static/js/3.f3919e0b.chunk.js.map": "/mazeTv/static/js/3.f3919e0b.chunk.js.map",
+    "index.html": "/mazeTv/index.html",
+    "static/css/2.f2512455.chunk.css.map": "/mazeTv/static/css/2.f2512455.chunk.css.map",
+    "static/css/main.b941e7de.chunk.css.map": "/mazeTv/static/css/main.b941e7de.chunk.css.map",
+    "static/js/2.3b0d3c94.chunk.js.LICENSE.txt": "/mazeTv/static/js/2.3b0d3c94.chunk.js.LICENSE.txt",
+    "static/media/nopreview2.94b51897.jpg": "/mazeTv/static/media/nopreview2.94b51897.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.3523db22.js",
+    "static/js/runtime-main.32048d5e.js",
     "static/css/2.f2512455.chunk.css",
-    "static/js/2.2246014a.chunk.js",
+    "static/js/2.3b0d3c94.chunk.js",
     "static/css/main.b941e7de.chunk.css",
     "static/js/main.3454eb0b.chunk.js"
   ]

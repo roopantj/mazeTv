@@ -1,7 +1,7 @@
 import {CardImg, CardBody} from 'reactstrap';
 import {Link} from 'react-router-dom';
 import styled from 'styled-components';
-import nopreview from './nopreview2.jpg';
+import nopreview from '../nopreview2.jpg';
 const ShowCard = ({id, img, name, rating, genres}) =>{
     return(
       <Card>

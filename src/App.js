@@ -1,8 +1,8 @@
 import { useEffect, useState } from 'react';
 import { Route, Switch } from 'react-router-dom';
-import Homepage from './Component/Homepage';
-import ShowDetails from './Component/ShowDetails';
-import Header from './Component/Header';
+import Homepage from './Component/Homepage/Homepage';
+import ShowDetails from './Component/ShowCard/ShowDetails/ShowDetails';
+import Header from './Component/Header/Header';
 
 const App = () => { 
   const [tvShows,setTVShows] = useState([])

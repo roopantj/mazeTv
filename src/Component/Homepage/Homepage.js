@@ -1,4 +1,4 @@
-import ShowCard from "./ShowCard";
+import ShowCard from "../ShowCard/ShowCard";
 import './Homepage.css';
 const Homepage = ({shows}) =>{
    return(
