@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import {Link, useParams, useHistory} from 'react-router-dom';
+import ReactHtmlParser from 'react-html-parser';
 import { Button } from 'reactstrap';
 import styled from 'styled-components';
 import nopreview from '../../nopreview2.jpg';
@@ -39,7 +40,7 @@ const ShowDetails = ({shows}) =>{
               <p>Language: {showDetails?.show.language}</p>
               <p>Status: {showDetails?.show.status}</p>
               <p>Summary</p>
-              {showDetails?.show.summary}
+              {ReactHtmlParser(showDetails?.show.summary)}
               {showDetails?.show.officialSite ? <Link href={showDetails?.show.officialSite}></Link> : null}
               <Link to='/'><Button color="warning">Go back</Button></Link>
             </div> 
